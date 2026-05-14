@@ -1,3 +1,6 @@
 fastapi
 sqlmodel 
 uvicorn
+alembic
+python-decouple
+psycopg2
